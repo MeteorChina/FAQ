@@ -9,3 +9,5 @@
 *添加方法：*
 
 `meteor add cordova:org.apache.cordova.media@0.2.16`
+
+**注意包名前要加`cordova:` 包名后要加`@版本号`**
