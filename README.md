@@ -6,11 +6,12 @@ In order to prevent these simple but frequent questions from appearing again in 
 方便起见，所有的都放在 `faqs` 目录下。这里是一个较详细的列表。
 
 * [如何在Meteor中使用npm模块？](faqs/using-npm.md)
-
+* [如何在Meteor中使用cordova插件? ](faqs/using-cordova-plugin.md)
 
 ##贡献者
 
 @laosb
+@yz89
 
 ##版权
 
