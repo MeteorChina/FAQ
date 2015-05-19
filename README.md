@@ -7,6 +7,7 @@ In order to prevent these simple but frequent questions from appearing again in 
 
 * [如何在Meteor中使用npm模块？](faqs/using-npm.md)
 * [如何在Meteor中使用cordova插件? ](faqs/using-cordova-plugin.md)
+* [`meteor update`不工作 ](faqs/meteor-update-doesnt-work.md)
 
 ##贡献者
 
