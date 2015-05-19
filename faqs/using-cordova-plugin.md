@@ -1,6 +1,6 @@
-#如何在Meteor中使用cordova插件？
+#如何在Meteor中使用Cordova插件？
 
-首先，请确定cordova插件的全名和版本号，一般在[http://plugins.cordova.io](http://plugins.cordova.io)上搜索插件包时就会提供插件包的全名和版本号。
+首先，请确定Cordova插件的全名和版本号，一般在[http://plugins.cordova.io](http://plugins.cordova.io)上搜索插件包时就会提供插件包的全名和版本号。
 
 *例如:*
 
